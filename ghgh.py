@@ -44,4 +44,4 @@ async def add(ctx):
             pass
 
 # Bot run block sits outside the main event/command function
-bot.run('MTU2MTgzMTk0OTkzMTI1Nzg3Ng.GCQbvr._qbsDszYY0nBdqW0RhnT8Vn2tMIFhmkk9Zn3yk')
+bot.run('UR BOT TOKEN')
